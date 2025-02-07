@@ -12,17 +12,17 @@ The database is organized using nested Python dictionaries:
 ## Data Fields
 Each intern record contains the following information:
 
-name: Full name of the intern
-slack username: Identifier used on Slack platform
-email: Contact email address
-hobby: Personal interests and activities
-country: Country of residence
-discipline: Academic background/field of study
-preferred programming lang: Primary programming language
+- name: Full name of the intern
+- slack username: Identifier used on Slack platform
+- email: Contact email address
+- hobby: Personal interests and activities
+- country: Country of residence
+- discipline: Academic background/field of study
+- preferred programming lang: Primary programming language
 
 ## Usage
 
-The script demonstrates basic dictionary operations:
+This project demonstrates basic dictionary operations:
 1. Creating individual intern dictionaries
 2. Combining them into a master dictionary
 3. Printing the complete database
@@ -31,9 +31,21 @@ The script demonstrates basic dictionary operations:
 ## Current Team Members
 
 The database currently contains information for 6 interns from various countries and academic backgrounds:
-- Nigeria (4 interns)
-- Spain (1 intern)
-- South Africa (1 intern)
+
+Geographic distribution:
+
+- Nigeria: 4 interns
+- Spain: 1 intern
+- South Africa: 1 intern
+
+
+Academic disciplines:
+
+- Microbiology (2 interns)
+- Biochemistry
+- Pharmacy
+- Anatomy
+- Plant Biotechnology
 
 
 
