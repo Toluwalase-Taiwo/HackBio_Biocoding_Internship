@@ -9,7 +9,7 @@ This repository contains a collection of projects that demonstrate my expertise 
 
 # Projects List
 
-Contributing
+### Contributing
 I welcome contributions, suggestions, and feedback on my projects! If you'd like to contribute, please fork this repository, make your changes, and submit a pull request.
 
 # Acknowledgments
