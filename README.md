@@ -1,4 +1,4 @@
-# HackBio_Biocoding_Internship
+# HackBio_biocoding_internship
  This repository documents my journey through the HackBio BioCoding Internship program, where I worked on various simple bioinformatics projects to develop my skills in programming, data analysis, and problem-solving.
 
 # Projects Overview
