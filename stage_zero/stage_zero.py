@@ -58,7 +58,6 @@ intern_details = {'Intern1': intern_1,
                   'Intern6': intern_6}
 
 # Using multiple print statement that prints the organized output in a logical and understandable way
-
 print(f'\nTeam Histidine Interns Database\nIntern1 details \n{intern_details["Intern1"]}')
 print(f'\nIntern2 details \n{intern_details["Intern2"]}')
 print(f'\nIntern3 details \n{intern_details["Intern3"]}')
