@@ -48,3 +48,26 @@ intern_6 = {"name": "Neo Mokgadi Mametja",
             "country": "South Africa",
             "discipline": "Plant Biotechnology",
             "preferred programming lang": "Python"}
+
+#assigning the dictionaries of each interns into a single variable name
+intern_details = {'Intern1': intern_1, 
+                  'Intern2': intern_2, 
+                  'Intern3': intern_3, 
+                  'Intern4': intern_4,
+                  'Intern5': intern_5,
+                  'Intern6': intern_6}
+
+# Using multiple print statement that prints the organized output in a logical and understandable way
+
+print(f'\nTeam Histidine Interns Contact Details\nIntern1 details \n{intern_details["Intern1"]}')
+print(f'\nIntern2 details \n{intern_details["Intern2"]}')
+print(f'\nIntern3 details \n{intern_details["Intern3"]}')
+print(f'\nIntern4 details \n{intern_details["Intern4"]}')
+print(f'\nIntern5 details \n{intern_details["Intern5"]}')
+print(f'\nIntern6 details \n{intern_details["Intern6"]}')
+
+# Accessing intern1's 'Name' by indexing
+intern_1['name']
+
+#Acessing intern2's email by indexing 
+intern_2['email']
