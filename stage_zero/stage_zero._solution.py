@@ -72,12 +72,11 @@ intern_1['name']
 intern_2['email']
 
 #Github profiles of our team
-#https://github.com/Toluwalase-Taiwo/HackBio_Biocoding_Internship
-#https://github.com/elioe300/Hack_Bio_Internship_Projects
-#https://github.com/Stellaa03/HackBio-Biocoding-Internship
-#https://github.com/Sproff/hackbio
-#https://github.com/muniruelijah/HackBio-biocoding-internship.git
+#Toluwalase github repo: https://github.com/Toluwalase-Taiwo/HackBio_Biocoding_Internship
+#Elias github repo: https://github.com/elioe300/Hack_Bio_Internship_Projects
+#Stella github repo: https://github.com/Stellaa03/HackBio-Biocoding-Internship
+#Sproff github repo: https://github.com/Sproff/hackbio
+#MuniruElijah github repo: https://github.com/muniruelijah/HackBio-biocoding-internship.git
 
-#LinkedIn post
-#https://www.linkedin.com/posts/toluwalasetaiwo_teamwork-datascience-biocoding-activit[…]303750524928-7x1H?utm_source=share&utm_medium=member_android
+#LinkedIn post: https://www.linkedin.com/posts/toluwalasetaiwo_teamwork-datascience-biocoding-activit[…]303750524928-7x1H?utm_source=share&utm_medium=member_android
 
