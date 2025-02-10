@@ -8,6 +8,7 @@ This repository contains a collection of projects that demonstrate my expertise 
 - Readme files providing context, methodology, and results for each project
 
 # Projects List
+Stage_0 task: https://github.com/Toluwalase-Taiwo/HackBio_Biocoding_Internship/tree/main/stage_zero
 
 # Contributing
 I welcome contributions, suggestions, and feedback on my projects! If you'd like to contribute, please fork this repository, make your changes, and submit a pull request.
