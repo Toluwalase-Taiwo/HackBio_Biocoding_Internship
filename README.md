@@ -14,7 +14,7 @@ Stage_1 task: https://github.com/Toluwalase-Taiwo/HackBio_Biocoding_Internship/t
 
 Stage_2 task: https://github.com/Toluwalase-Taiwo/HackBio_Biocoding_Internship/tree/main/stage_2
 
-Stage_3 task: 
+Stage_3 task: https://github.com/Toluwalase-Taiwo/HackBio_Biocoding_Internship/tree/main/stage_3
 
 # Contributing
 I welcome contributions, suggestions, and feedback on my projects! If you'd like to contribute, please fork this repository, make your changes, and submit a pull request.
